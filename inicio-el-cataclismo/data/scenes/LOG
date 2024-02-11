@@ -1,0 +1,45 @@
+2024/02/10-15:21:41.312 2884 Recovering log #540
+2024/02/10-15:21:41.314 2884 Level-0 table #543: started
+2024/02/10-15:21:41.385 2884 Level-0 table #543: 655559 bytes OK
+2024/02/10-15:21:41.392 2884 Delete type=0 #540
+2024/02/10-15:21:41.392 2884 Delete type=3 #531
+2024/02/10-15:21:50.929 ba8 Compacting 2@0 + 1@1 files
+2024/02/10-15:21:51.006 ba8 Generated table #545@0: 1986 keys, 434716 bytes
+2024/02/10-15:21:51.006 ba8 Compacted 2@0 + 1@1 files => 434716 bytes
+2024/02/10-15:21:51.008 ba8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/10-15:21:51.008 ba8 Delete type=2 #539
+2024/02/10-15:21:51.008 ba8 Delete type=2 #541
+2024/02/10-15:21:51.008 ba8 Delete type=2 #543
+2024/02/10-17:09:32.977 ba8 Level-0 table #547: started
+2024/02/10-17:09:33.055 ba8 Level-0 table #547: 1709425 bytes OK
+2024/02/10-17:09:33.057 ba8 Delete type=0 #544
+2024/02/10-17:23:39.959 ba8 Level-0 table #549: started
+2024/02/10-17:23:39.973 ba8 Level-0 table #549: 1657167 bytes OK
+2024/02/10-17:23:39.975 ba8 Delete type=0 #546
+2024/02/10-17:33:33.790 ba8 Level-0 table #551: started
+2024/02/10-17:33:33.933 ba8 Level-0 table #551: 1571715 bytes OK
+2024/02/10-17:33:33.935 ba8 Delete type=0 #548
+2024/02/10-17:58:57.658 ba8 Level-0 table #553: started
+2024/02/10-17:58:57.735 ba8 Level-0 table #553: 1463611 bytes OK
+2024/02/10-17:58:57.736 ba8 Delete type=0 #550
+2024/02/10-17:58:57.737 ba8 Compacting 4@0 + 1@1 files
+2024/02/10-17:58:57.816 ba8 Generated table #554@0: 2014 keys, 446827 bytes
+2024/02/10-17:58:57.816 ba8 Compacted 4@0 + 1@1 files => 446827 bytes
+2024/02/10-17:58:57.818 ba8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/10-17:58:57.818 ba8 Delete type=2 #545
+2024/02/10-17:58:57.818 ba8 Delete type=2 #547
+2024/02/10-17:58:57.818 ba8 Delete type=2 #549
+2024/02/10-17:58:57.818 ba8 Delete type=2 #551
+2024/02/10-17:58:57.819 ba8 Delete type=2 #553
+2024/02/10-18:07:59.913 ba8 Level-0 table #556: started
+2024/02/10-18:07:59.988 ba8 Level-0 table #556: 1629129 bytes OK
+2024/02/10-18:07:59.989 ba8 Delete type=0 #552
+2024/02/10-18:08:08.472 ba8 Compacting 1@0 + 1@1 files
+2024/02/10-18:08:08.544 ba8 Generated table #557@0: 1987 keys, 435245 bytes
+2024/02/10-18:08:08.544 ba8 Compacted 1@0 + 1@1 files => 435245 bytes
+2024/02/10-18:08:08.545 ba8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/10-18:08:08.545 ba8 Delete type=2 #554
+2024/02/10-18:08:08.546 ba8 Delete type=2 #556
+2024/02/10-18:14:10.790 ba8 Level-0 table #559: started
+2024/02/10-18:14:10.868 ba8 Level-0 table #559: 1672400 bytes OK
+2024/02/10-18:14:10.869 ba8 Delete type=0 #555

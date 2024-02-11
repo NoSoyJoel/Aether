@@ -1,0 +1,15 @@
+{
+  "title": "Inicio: El Cataclismo",
+  "id": "inicio-el-cataclismo",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "systemVersion": "3.0.1",
+  "lastPlayed": "Sat Feb 10 2024 15:21:41 GMT+0100 (hora estándar de Europa central)",
+  "background": "MAPA%20V4%20FINAL.png",
+  "playtime": 13207
+}
